@@ -1,0 +1,6 @@
+
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout
+
+# https://www.youtube.com/watch?v=x_tLxV57cEA&list=PLx-q4INfd95EsUuON1TIcjnFZSqUfMf7s&index=18
+# http://localhost:8000/api/password-reset/Mg/aldo9p-4f692fba45b637e8c165c7fa05933e2b/
